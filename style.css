@@ -1,0 +1,54 @@
+span.titulo {
+    font-weight: bold;
+    color: #663121;
+    font-family: 'Courier New', Courier, monospace;
+}
+div.centrado {
+    position: relative;
+    right: -40%;
+}
+div.menuinicio {
+    position: relative;
+right: -2cm;
+}
+div.separarcafe {
+    position: relative;
+    left: 32%;
+    bottom: 40%;
+}
+div.separarfotocafe {
+    position: relative;
+    left: 32%;
+}
+div.separarcontacto {
+    position: relative;
+    left: 64%;
+    bottom: 80%;
+}
+div.separarfotocontacto {
+    position: relative;
+    left: 66%;
+}
+body {
+    background-color: #ebd0b3;
+}
+span.correo {
+color: teal;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 0.8cm;
+}
+span.telefono {
+    color: midnightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.8cm;
+}
+span.volver {
+    font-weight: bold;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    left: 90%;
+}
+span.texto {
+    font-weight: bold;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
